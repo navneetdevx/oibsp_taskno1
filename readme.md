@@ -7,4 +7,5 @@ https://navneetdevx.github.io/temperatureconv/
 https://navneetdevx.github.io/portfolio/
 
 ## Landing Page
+https://navneetdevx.github.io/Zoro_landingpage/
 
